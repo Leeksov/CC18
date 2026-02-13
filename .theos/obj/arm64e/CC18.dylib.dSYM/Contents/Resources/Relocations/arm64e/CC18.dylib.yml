@@ -1,0 +1,47 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/leeksov/TheosProjects/tweaks/CC18/.theos/obj/arm64e/CC18.dylib'
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: __logosLocalCtor_c52c334a, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x20 }
+  - { offset: 0x45, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$MTMaterialLayer$cornerRadius', symObjAddr: 0x10D98, symBinAddr: 0xC1F0, symSize: 0x0 }
+  - { offset: 0x779, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$MTMaterialLayer$setCornerRadius$', symObjAddr: 0x10DA0, symBinAddr: 0xC1F8, symSize: 0x0 }
+  - { offset: 0x7A4, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$MTMaterialView$layoutSubviews', symObjAddr: 0x10DA8, symBinAddr: 0xC200, symSize: 0x0 }
+  - { offset: 0xABD, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$CALayer$cornerRadius', symObjAddr: 0x10DB0, symBinAddr: 0xC208, symSize: 0x0 }
+  - { offset: 0xAEC, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$CALayer$setCornerRadius$', symObjAddr: 0x10DB8, symBinAddr: 0xC210, symSize: 0x0 }
+  - { offset: 0xB17, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$UIView$_setContinuousCornerRadius$', symObjAddr: 0x10DC0, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offset: 0xB4C, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$UIView$setContinuousCornerRadius$', symObjAddr: 0x10DC8, symBinAddr: 0xC220, symSize: 0x0 }
+  - { offset: 0xB61, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$CCUIContentModuleContentContainerView$layoutSubviews', symObjAddr: 0x10DD0, symBinAddr: 0xC228, symSize: 0x0 }
+  - { offset: 0xBA1, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$CCUIModularControlCenterOverlayViewController$setPresentationState$', symObjAddr: 0x10DD8, symBinAddr: 0xC230, symSize: 0x0 }
+  - { offset: 0x18B3, size: 0x8, addend: 0x0, symName: _cc18_env, symObjAddr: 0x23C0, symBinAddr: 0xC1E0, symSize: 0x0 }
+  - { offset: 0x1F24, size: 0x8, addend: 0x0, symName: __logosLocalCtor_c52c334a, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x20 }
+  - { offset: 0x1F7B, size: 0x8, addend: 0x0, symName: __logosLocalInit, symObjAddr: 0x20, symBinAddr: 0x4020, symSize: 0x1D4 }
+  - { offset: 0x20F6, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$MTMaterialLayer$cornerRadius', symObjAddr: 0x1F4, symBinAddr: 0x41F4, symSize: 0xB4 }
+  - { offset: 0x212E, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$MTMaterialLayer$cornerRadius', symObjAddr: 0x1F4, symBinAddr: 0x41F4, symSize: 0xB4 }
+  - { offset: 0x21BF, size: 0x8, addend: 0x0, symName: _cc18_layerViewHasWindow, symObjAddr: 0xEFC, symBinAddr: 0x4EFC, symSize: 0x74 }
+  - { offset: 0x21F7, size: 0x8, addend: 0x0, symName: _calculatedRadius, symObjAddr: 0xF70, symBinAddr: 0x4F70, symSize: 0x134 }
+  - { offset: 0x2274, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$MTMaterialLayer$setCornerRadius$', symObjAddr: 0x2A8, symBinAddr: 0x42A8, symSize: 0xAC }
+  - { offset: 0x22E9, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$MTMaterialView$layoutSubviews', symObjAddr: 0x354, symBinAddr: 0x4354, symSize: 0x278 }
+  - { offset: 0x2365, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$MTMaterialView$layoutSubviews', symObjAddr: 0x354, symBinAddr: 0x4354, symSize: 0x278 }
+  - { offset: 0x24B6, size: 0x8, addend: 0x0, symName: _cc18_shouldSkipModuleContainer, symObjAddr: 0x10A4, symBinAddr: 0x50A4, symSize: 0x194 }
+  - { offset: 0x259B, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$CALayer$cornerRadius', symObjAddr: 0x5CC, symBinAddr: 0x45CC, symSize: 0xD4 }
+  - { offset: 0x262A, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$CALayer$setCornerRadius$', symObjAddr: 0x6A0, symBinAddr: 0x46A0, symSize: 0xD4 }
+  - { offset: 0x269D, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$UIView$_setContinuousCornerRadius$', symObjAddr: 0x774, symBinAddr: 0x4774, symSize: 0x5C }
+  - { offset: 0x26A7, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$UIView$_setContinuousCornerRadius$', symObjAddr: 0x774, symBinAddr: 0x4774, symSize: 0x5C }
+  - { offset: 0x2705, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$UIView$setContinuousCornerRadius$', symObjAddr: 0x7D0, symBinAddr: 0x47D0, symSize: 0x5C }
+  - { offset: 0x270F, size: 0x8, addend: 0x0, symName: _applyCC18Radius, symObjAddr: 0x13A0, symBinAddr: 0x53A0, symSize: 0x108 }
+  - { offset: 0x2788, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$UIView$setContinuousCornerRadius$', symObjAddr: 0x7D0, symBinAddr: 0x47D0, symSize: 0x5C }
+  - { offset: 0x27E6, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$CCUIContentModuleContentContainerView$layoutSubviews', symObjAddr: 0x82C, symBinAddr: 0x482C, symSize: 0x1E0 }
+  - { offset: 0x27F0, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$CCUIContentModuleContentContainerView$layoutSubviews', symObjAddr: 0x82C, symBinAddr: 0x482C, symSize: 0x1E0 }
+  - { offset: 0x2925, size: 0x8, addend: 0x0, symName: _applyRadiusToMaterialViewsOnly, symObjAddr: 0x14A8, symBinAddr: 0x54A8, symSize: 0x204 }
+  - { offset: 0x29B5, size: 0x8, addend: 0x0, symName: _applyRadiusToSliderBackgroundOnly, symObjAddr: 0x16AC, symBinAddr: 0x56AC, symSize: 0x208 }
+  - { offset: 0x2A54, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$CCUIModularControlCenterOverlayViewController$setPresentationState$', symObjAddr: 0xA0C, symBinAddr: 0x4A0C, symSize: 0x4F0 }
+  - { offset: 0x2C55, size: 0x8, addend: 0x0, symName: _findSubviewOfClass, symObjAddr: 0x1238, symBinAddr: 0x5238, symSize: 0x168 }
+  - { offset: 0x2D20, size: 0x8, addend: 0x0, symName: '____logos_method$_ungrouped$CCUIModularControlCenterOverlayViewController$setPresentationState$_block_invoke', symObjAddr: 0x18B4, symBinAddr: 0x58B4, symSize: 0x70 }
+  - { offset: 0x2D85, size: 0x8, addend: 0x0, symName: _cc18_run_argv, symObjAddr: 0x1AD8, symBinAddr: 0x5AD8, symSize: 0xA4 }
+  - { offset: 0x2E75, size: 0x8, addend: 0x0, symName: '____logos_method$_ungrouped$CCUIModularControlCenterOverlayViewController$setPresentationState$_block_invoke_2', symObjAddr: 0x1924, symBinAddr: 0x5924, symSize: 0x78 }
+  - { offset: 0x2EFC, size: 0x8, addend: 0x0, symName: '____logos_method$_ungrouped$CCUIModularControlCenterOverlayViewController$setPresentationState$_block_invoke_3', symObjAddr: 0x199C, symBinAddr: 0x599C, symSize: 0x70 }
+  - { offset: 0x2F61, size: 0x8, addend: 0x0, symName: '____logos_method$_ungrouped$CCUIModularControlCenterOverlayViewController$setPresentationState$_block_invoke_4', symObjAddr: 0x1A0C, symBinAddr: 0x5A0C, symSize: 0x58 }
+  - { offset: 0x2F88, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x1A64, symBinAddr: 0x5A64, symSize: 0x8 }
+  - { offset: 0x2FAC, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x1A6C, symBinAddr: 0x5A6C, symSize: 0x8 }
+  - { offset: 0x2FC9, size: 0x8, addend: 0x0, symName: '____logos_method$_ungrouped$CCUIModularControlCenterOverlayViewController$setPresentationState$_block_invoke.98', symObjAddr: 0x1A74, symBinAddr: 0x5A74, symSize: 0x64 }
+...
